@@ -31,6 +31,6 @@ Estrutura do Projeto
         1. Calculadora.cs (Classe para realizar cálculos)
           1. Program.cs (Arquivo de ponto de entrada do programa)
 
-[![image](https://github.com/Stal91/Calculator_Menu/assets/105076457/28093f92-1687-4b7b-9bca-e87ef9b56f48)
+![image](https://github.com/Stal91/Calculator_Menu/assets/105076457/28093f92-1687-4b7b-9bca-e87ef9b56f48)
 
 
