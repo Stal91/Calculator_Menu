@@ -4,23 +4,23 @@ Este é um programa simples de calculadora implementado em C# que roda no consol
 
 ## Como Usar
 
-1.Clone ou baixe o repositório em sua máquina local.
-1.Abra o projeto em sua IDE de preferência que suporte C#.
-1.Compile o código, se necessário.
-1.Execute o programa.
-1.Você será apresentado a um menu com as seguintes opções:
+1. Clone ou baixe o repositório em sua máquina local.
+1. Abra o projeto em sua IDE de preferência que suporte C#.
+1. Compile o código, se necessário.
+1. Execute o programa.
+1. Você será apresentado a um menu com as seguintes opções:
         Soma
         Subtração
         Multiplicação
         Divisão
         Sair
 
-1.Escolha uma das opções digitando o número correspondente e pressione Enter.
-1.Digite os dois números que deseja calcular quando solicitado.
-1.O resultado da operação escolhida será exibido no console.
-1.Você pode continuar realizando operações ou selecionar a opção "Sair" para encerrar o programa.
+1. Escolha uma das opções digitando o número correspondente e pressione Enter.
+1. Digite os dois números que deseja calcular quando solicitado.
+1. O resultado da operação escolhida será exibido no console.
+1. Você pode continuar realizando operações ou selecionar a opção "Sair" para encerrar o programa.
 
-##Pré-requisitos
+## Pré-requisitos
 Você deve ter o ambiente de desenvolvimento C# configurado em sua máquina.
 
 Estrutura do Projeto
