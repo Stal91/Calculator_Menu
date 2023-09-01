@@ -25,11 +25,11 @@ Você deve ter o ambiente de desenvolvimento C# configurado em sua máquina.
 
 Estrutura do Projeto
 
-  MenuCalc (Projeto Principal)
-    Models (Namespace com as classes principais)
-      Menu.cs (Classe para o menu de interação)
-        Calculadora.cs (Classe para realizar cálculos)
-          Program.cs (Arquivo de ponto de entrada do programa)
+  1. MenuCalc (Projeto Principal)
+    1. Models (Namespace com as classes principais)
+      1. Menu.cs (Classe para o menu de interação)
+        1. Calculadora.cs (Classe para realizar cálculos)
+          1. Program.cs (Arquivo de ponto de entrada do programa)
 
-![![image](https://github.com/Stal91/Calculator_Menu/assets/105076457/c29c031e-1731-45ff-af40-ff5f4deeb7ae)
-]
+[image](https://github.com/Stal91/Calculator_Menu/assets/105076457/c29c031e-1731-45ff-af40-ff5f4deeb7ae)
+
